@@ -1,6 +1,7 @@
 '''
 Creates a map showing the total shootings for each state
 '''
+
 import pandas as pd 
 import plotly.graph_objects as go
 
